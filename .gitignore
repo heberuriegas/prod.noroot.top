@@ -1,4 +1,0 @@
-nginx/production/*.conf
-!nginx/production/default.conf
-nginx/staging/*.conf
-!nginx/staging/default.conf
